@@ -1,5 +1,5 @@
 # playlist-creator
-i want to apologies for bad english
+i want to apologizes for bad english
 
 there's a puppiter script that you can use to import a list of names from a txt to your previous created youtube playlist, you should change the some parts of the code
 
